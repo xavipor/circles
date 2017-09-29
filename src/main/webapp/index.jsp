@@ -22,6 +22,7 @@
         <h1>Towns Data Generator</h1>
         <p><a href="/Circles/Towns/50">Json towns</a></p>
         <hr>
+        <hr>
         <p><%
             DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 Date date = new Date();%>
